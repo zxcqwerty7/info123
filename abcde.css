@@ -1,0 +1,91 @@
+.kvdrt {
+    width: 500px;
+    height: 500px;
+    border: 3px dashed #000;
+    position: absolute;
+    margin-left: 400px;
+}
+.grz{
+    width: 494px;
+    border: 2px dashed #000;
+    margin-top: 250px;
+    POSITION: relative;
+}
+.vtr {
+    border-left: 1px solid #000;
+    height: 496px;
+    width: 0px;
+    margin: auto;
+    margin-top: -254px;
+    border: 2px dashed;
+    position: relative;
+    
+}
+.a {
+    height: 171px;
+    width: 470px;
+    background: #4e4ee6;
+   margin-top: -184px;
+   margin-left: 13px;
+    
+}
+.a p {
+    text-align: center ;
+    font-size: 100PX;
+    font-family: Arial;
+    color: aliceblue;
+    
+}
+.D {
+    height: 150px;
+    width: 150px;
+    background: #50992e;
+    margin-top: -224px;
+    margin-left: 333px;
+}
+.D p {
+    text-align: center ;
+    font-size: 100PX;
+    font-family: Arial;
+    color: aliceblue;
+}
+.C {
+    height: 150PX;
+    width: 290px;
+    background: #e2a624;
+    margin-top: -397px;
+    margin-left: 200px;
+}
+.C p {
+    text-align: center ;
+    font-size: 100PX;
+    font-family: Arial;
+    color: aliceblue;
+}
+.E {
+    height: 200PX;
+    width: 200PX;
+    background: #F44336;
+    margin-left: 142px;
+    margin-top: -7px;
+}
+.E p {
+    text-align: center ;
+    font-size: 100PX;
+    font-family: Arial;
+    color: aliceblue;
+}
+.B {
+    height: 200PX;
+    width: 200PX;
+    background: rgb(119, 0, 255);
+    margin-top: -343px;
+    margin-left: 13px;
+
+}
+.B p {
+    text-align: center ;
+    font-size: 100PX;
+    font-family: Arial;
+    color: aliceblue;
+}
